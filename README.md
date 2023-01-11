@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattjared
-- 👀 I’m interested in ...Sales Engineering, SaaS and building
-- 🌱 I’m currently learning ... Next.js, Supabase, 
+- 👀 I’m interested in ... javascript, SaaS and building fun tools
+- 🌱 I’m currently learning ... everything 
 - 💞️ I’m looking to collaborate on ...anything SaaS or Sales Engineering focused
 - 📫 How to reach me ...DM here or @matt_jared on the tweet machine
 
