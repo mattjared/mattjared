@@ -6,6 +6,7 @@
 - 🏗️ Builder at heart: Next.js, React, Postgres, Supabase on the code side
 - 🚀 Interested in the intersection of engineering, business, and GTM
 - 🌱 Long-term goal: learn, build and have fun
+- Follow along at <https://mattjared.xyz>
 
 
 <!---
